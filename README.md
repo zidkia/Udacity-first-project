@@ -15,7 +15,7 @@ Also, I'll add a linear model to predect Airbnb prices with the variables that I
 ## Files 
 1. Read me file - get some info about the project before diving into it.
 2. Jupyter notebook - with all the code, and comments of my analysis.
-3. Documentation with all the findings from my projects.
+
 
 
 ## Libraries 
