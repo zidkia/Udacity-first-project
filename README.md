@@ -7,7 +7,7 @@ In this project, I'm intreaded to see how Airbnb prices changes. As someone who 
 
 In this project, I'll answer the folowing question:
 1. Do Airbnb prices increase over the years?
-2. Do Airbnb prices correlated with Airbnb review rating?
+2. Do Airbnb prices correlated with Airbnb reviews rating?
 3. Do bigger Airbnb increase prices?
 
 Also, I'll add a linear model to predect Airbnb prices with the variables that I investigate in the questions: rating, size and year.
@@ -19,4 +19,15 @@ Also, I'll add a linear model to predect Airbnb prices with the variables that I
 
 
 ## Libraries 
-A README.md file that communicates the libraries used, the motivation for the project, the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgments.
+1. Pandas
+2. Numpy
+3. Seaborn
+4. Mtplotlib
+5. Sklearn (linear_model, model_selection, metrics)
+
+## Results
+1. Airbnb prices decrease between 2016 to 2017.
+2. Airbnb reviews rating is not correlated with Airbnb prices. quite the opposite, they have negative small correlation.
+3. Bigger Airbnb (by square feet or by numbers of beds) have high correlation with Airbnb prices.
+4. Using only Airbnb reviews and size with a linear regression gives r*2 of 0.34. Meaning that 34% of the price can be explained by these two variables.
+
