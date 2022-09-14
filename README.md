@@ -1,6 +1,9 @@
 # Udacity-first-project
 Boston Airbnb prices
 
+Link to the official Blog-
+https://medium.com/@zidkia/what-effects-airbnb-prices-in-boston-5cc43e1a2e17
+
 
 ## Motivation
 In this project, I'm intreaded to see how Airbnb prices changes. As someone who lived for a few months (during internship) in Boston, I'm very intresing to get some insites about the housing / Airbnb market. 
