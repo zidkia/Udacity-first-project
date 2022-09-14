@@ -27,7 +27,7 @@ Also, I'll add a linear model to predect Airbnb prices with the variables that I
 
 ## Results
 1. Airbnb prices decrease between 2016 to 2017.
-2. Airbnb reviews rating is not correlated with Airbnb prices. quite the opposite, they have negative small correlation.
+2. Airbnb reviews rating is highly correlated with Airbnb prices. As Airbnb properties are better (higher rating), it cause the price to increase. 
 3. Bigger Airbnb (by square feet or by numbers of beds) have high correlation with Airbnb prices.
 4. Using only Airbnb reviews and size with a linear regression gives r*2 of 0.34. Meaning that 34% of the price can be explained by these two variables.
 
